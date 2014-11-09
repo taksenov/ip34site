@@ -442,6 +442,7 @@ a:hover {
     line-height: 85px;
     margin-left: -5px;
     margin-top:10px;
+    text-align:center
 }
 
 #section1 .intro h3 {
@@ -450,7 +451,7 @@ a:hover {
     font-weight: 100;
     line-height: 28px;
     margin: 0px;
-    width: 80%;
+    width: 100%;
     text-align:center
 
 }
@@ -749,7 +750,7 @@ a:hover {
 	#section1 .intro h3 {
 	    font-size: 28px; font-size: 2.8rem;
 	    line-height: 34px;
-	    width: 90%;
+	    width: 100%;
 	}
 	
 	.section h2 {
@@ -833,7 +834,7 @@ a:hover {
 @media screen and (min-width: 768px) and (max-width: 979px) {
 
 	#section1 .intro h3 {
-		width: 85%;
+		width: 100%;
 	}
 	
 	#section2 .content .expand {
@@ -882,7 +883,7 @@ a:hover {
 	}
 	
 	#section1 .intro h3 {
-		width: 55%;
+		width: 100%;
 	}
 	
 	#section3 .content img {
