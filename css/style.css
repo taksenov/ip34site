@@ -1000,6 +1000,21 @@ a:hover {
 
 }
 
+.height__custom {
+    height: 50px;
+}
+
+
+.our_im {
+    margin-top: 20px;
+}
+.our_im__link {
+    text-decoration: underline;
+}
+.our_im__link:hover {
+    color: #c0392b;
+    text-decoration: underline;
+}
 
 
 
